@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="ml">mL</string>
+    <string name="ounces">ounces</string>
+    <string name="grams">grams</string>
+    <string name="cups">cups</string>
+    <string-array name="units">
+        <item>@string/ml</item>
+        <item>@string/ounces</item>
+        <item>@string/grams</item>
+        <item>@string/cups</item>
+    </string-array>
+</resources>
